@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Ремонт холодильников КИЕВ. Вызов мастера на дом.</title>
+<meta name=description content="Срочный Ремонт Холодильников на дому по Киеву и области. Доступные цены, гарантия. Выезд в день обращения. Вызов мастера и диагностика бесплатно ☎ (063) 408 5350"/>
+<meta name=keywords content="ремонт холодильников, срочно, гарантия, киев, на дому, вызов мастера, цена, недорого"/>
+<script type="text/javascript" src="js/jquery.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="font-awesome.css" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript" language="javascript">
+ 
+function proverka(www) { //Открываем и передаем данные
+ 
+    if (www.phone.value=='') { //Проверяем пустое ли
+ 
+    alert("Необходимо ввести номер телефона"); //Выводим ошибку если пусто
+ 
+    return false;
+ 
+    }
+    return true;
+    }
+ 
+</script>
+
+<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" media="all" href="magnific-popup.css" />
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<header class="header">
+		<div class="logo"><img src="img/logo.png"></img></div>
+      <div class="address">
+     
+      <a class="popup-with-form" href="#test-form"><div class="select edges">Прием заявок круглосуточно</div></a></div>
+      
+      <div class="tel big red">Звоните сейчас <i class="fa fa-arrow-right"></i> <b>(063) 408-53-50</b>
+ 
+      <div class="tel small red">Работаем ежедневно с 8:00 до 24:00</div>
+      
+      </div>
+      
+      <div class="clear"></div>
+	
+    <h1 class="remont blue">Ремонт холодильников в Киеве и области</h1>
+    </header><!-- .header-->
+
+	<div class="middle">
+
+		<div class="container">
+			<main class="content">
+           <div style="padding-top:50px"></div>
+           <div style="width:300px;">
+                <div class="icons"><i class="fa fa-cogs fa-4x"></i></div>
+                
+                <div class="clear"></div>
+                
+                <div class="remont3 grey">Уже сегодня ваш холодильник</br>будет работать.</div>
+                
+                <div class="clear"></div>
+                
+                <div class="icons"><i class="fa fa-rub fa-4x"></i></div>
+                
+                <div class="clear"></div>
+                
+                <div class="remont2 grey">Самые низкие расценки</br>на ремонт холодильников</br>в Киеве.</div>
+                
+                <div class="clear"></div>
+                
+                <div class="icons"><i class="fa fa-wrench fa-4x"></i></div>
+                
+                <div class="clear"></div>
+                
+                <div class="remont2 grey">12 месяцев гарантии</br>на выполненную работу.</div>
+                
+                </div>
+                
+               <div style="width:400px; height:591px; background-image:url(img/man.png); position:absolute; top: 0px; left: 260px; z-index:10;"></div>
+               
+               <div class="clear"></div>
+               
+               <div class="select2 edges">Почему выгодно вызывать нас</div>
+               <div class="clear"></div>
+               <div class="text"><ul><li class="good">1. Выезд мастера сразу после получения заявки или в удобное для вас время.</li><li class="good">2. Самые низкие расценки на ремонт холодильников в Киеве.</li><li class="good">3. Гарантия 12 месяцев. В случае повторной поломки мастер приедет к вам снова и устранит проблему абсолютно <b>бесплатно</b>.</li><li class="good">4. Никакой грязи после ремонта в вашей квартире.</li><li style="border-bottom: none !important;" class="good">5. Осуществляем ремонт холодильников таких марок как: Либхер, Samsung, Индезит, Электролюкс, ВестФрост, Вирпул, Сименс, Атлант, MXM, Бирюса, Stinol, AEG, Ariston, Bosch, Candy, Electrolux, Indesit, LG, Nord, Polair, Frybest, Fagor.</li></ul></div>
+               
+               <div class="clear"></div>
+               
+               <div class="select3 edges">Сломался холодильник,Появились проблемы?</div>
+               
+               <div class="clear"></div>
+               <div class="text"><ul><li class="bad">1. Сложно найти хорошего специалиста и запчасти.</li><li class="bad">2. Мастер грубит.</li><li class="bad">3. Обещают приехать через час, а переносят на след. день.</li><li class="bad">4. Холодильник ломается через день и никто ничего не гарантирует.</li><li style="border-bottom: none !important;" class="bad">5. Могут возникнуть непредвиденные расходы, которые повлекут потерю времени и настроения.</li></ul></div>
+               
+               <div class="clear"></div>
+               
+               <div class="text" style="padding: 0 20px;">Можно купить новый холодильник, но зачем терять деньги и бесценное время? Куда проще обратиться к опытным мастерам, которые оперативно решат ваши проблемы.<p></p><span style="color:#ee6557;">Достаточно позвонить нам или вызвать мастера через форму на сайте. Наши мастера свяжутся с вами в течение 10 минут!</span></div>
+               
+                <div class="clear"></div>
+               
+               <div class="select4 edges">Как вызвать мастера, не вставая с дивана</div>
+               <div class="clear"></div>
+               <div class="text"><ul><li class="good2">1. Звоните по телефону (066) 000-31-18 или оставляйте заявку на сайте.</li><li class="good2">2. В течение 10 минут с вами свяжется свободный мастер — вы опишите суть поломки, сообщите марку и модель холодильника.</li><li  style="border-bottom: none !important;" class="good2">3. Мастер со всеми необходимыми деталями <b>приедет в день подачи заявки</b> и починит вашего красавца!</li></ul></div>
+               
+               <div class="clear"></div>
+               
+               <div class="select6 edges">Стоимость услуг</div>
+               <div class="clear"></div>
+               
+               
+               
+               <div class="text3"><ul>
+               <li class="goodl">Вызов мастера</li>
+               <li class="goodl">Диагностика холодильника (в случае ремонта)</li>
+               <li class="goodl">Замена теромостата (терморегулятора)</li>
+               <li class="goodl">Установка электронного блока управления</li>
+<li class="goodl">Замена теромостата</li>
+<li class="goodl">Ремонт электронного блока управления или исполнения</li>
+<li class="goodl">Замена мотора вентилятора обдува ипарителя</li>
+<li class="goodl">Устранение засора или замена капиллярного трубопровода теплообменника</li>
+<li class="goodl">Замена компрессора</li>
+<li class="goodl">Замена пускозащитного реле компрессора</li>
+<li class="goodl">Замена нагревателя плачущего испарителя</li>
+<li class="goodl">Ремонт электросхемы</li>
+<li class="goodl">Замена таймера</li>
+<li class="goodl">Прочистка, восстановление дренажной системы</li>
+<li class="goodl">Вакуумирование, заправка холодильного агрегата</li>
+<li class="goodl">Замена фильтра-осушителя</li>
+<li  style="border-bottom:0px !important; padding-bottom:0px !important;" class="goodl">Замена уплотнителя</li>
+
+               </ul></div>
+
+<div class="text3"><ul>
+<li class="goodr">Бесплатно</li>
+<li class="goodr">Бесплатно</li>
+<li class="goodr">от 350 гр.</li>
+<li class="goodr">от 500 гр.</li>
+<li class="goodr">от 450 гр.</li>
+<li class="goodr">от 600 гр.</li>
+<li class="goodr">от 350 гр.</li>
+<li class="goodr">от 400 гр.</li>
+<li class="goodr">от 800 гр.</li>
+<li class="goodr">от 250 гр.</li>
+<li class="goodr">от 450 гр.</li>
+<li class="goodr">от 350 гр.</li>
+<li class="goodr">от 550 гр.</li>
+<li class="goodr">от 250 гр.</li>
+<li class="goodr">от 600 гр.</li>
+<li class="goodr">бесплатно</li>
+<li style="border-bottom:0px !important; padding-bottom:0px !important;" class="goodr">от 750 гр.</li>
+</ul></div> 
+                
+			</main><!-- .content -->
+		</div><!-- .container-->
+
+		<aside class="left-sidebar">
+			
+            <p class="titleform">Или просто укажите</br>свои имя и телефон.</br></br>Мастер свяжется с вами</br>в течении 10 минут.</p>
+            <div class="g316 form edges">
+    <form id="contactform" action="send.php" method="post" name="forma_betmenik" onsubmit="if (proverka(forma_betmenik)) {yaCounter23974735.reachGoal('order');return true;} else return false;">
+<p><input type="text" name="firstname" class="required big1 edges" value="Ваше имя" onfocus="if (this.value=='Ваше имя') this.value='';"></p>
+<p><input type="text" name="phone" class="required big1 edges" value="Ваш телефон *" onfocus="if (this.value=='Ваш телефон *') this.value='';"></p>
+<p><input type="submit" class="big2 edges"  value="ВЫЗВАТЬ МАСТЕРА"></p>
+</form>
+<p style="text-align:center; color:#FFF;">Ваши данные в безопасности и не будут переданы третьим лицам.</br>ФЗ  № 152 «О защите персональных данных»</p>
+  </div>
+            <div class="clear"></div>
+            <div class="select5 edges">Отзывы</div>
+            
+            <div class="clear" style="height:20px;"></div>
+            <div class="text2">
+            
+            <p>Завадова Людмила</p>
+            <p><img src="img/comentator1.png"></img></p>
+            <p>Отзыв от 18.10.2016</p>
+            <p class="otzivi">Спасибо за хорошо сделанную работу. Всё наладили очень быстро. Мастер приехал через 40 минут после заявки.</p>
+            
+            <p>Переева Любовь</p>
+            <p><img src="img/comentator2.png"></img></p>
+            <p>Отзыв от 17.08.2015</p>
+            <p class="otzivi">Хочу похвалить ваш сервис за качественную работу. Мастер приехал буквально в тот же день и всё починил. Спасибо.</p>
+            
+            <p>Ковалев Олег</p>
+            <p><img src="img/comentator3.png"></img></p>
+            <p>Отзыв от 21.03.2016</p>
+            <p class="otzivi">Благодарю мастера Мартынова Евгения за отлично выполненную работу. Вежливый и ответственный человек.</p>
+             </div>
+             
+             <div style="padding-bottom:20px;" class="clear"></div>
+             
+             <p class="titleform">Не теряйте время.</br></br>Оставьте заявку</br>и мы починим ваш холодильник!</p>
+            <div class="g316 form edges">
+    <form id="contactform" action="send.php" method="post" name="forma_betmenik2" onsubmit="if (proverka(forma_betmenik2)) {yaCounter23974735.reachGoal('order');return true;} else return false;">
+<p><input type="text" name="firstname" class="required big1 edges" value="Ваше имя" onfocus="if (this.value=='Ваше имя') this.value='';"></p>
+<p><input type="text" name="phone" class="required big1 edges" value="Ваш телефон *" onfocus="if (this.value=='Ваш телефон *') this.value='';"></p>
+<p><input type="submit" class="big2 edges"  value="ВЫЗВАТЬ МАСТЕРА"></p>
+</form>
+<p style="text-align:center; color:#FFF;">Ваши данные в безопасности и не будут переданы третьим лицам.</br>ФЗ  № 152 «О защите персональных данных»</p>
+  </div>
+
+<div class="clear"></div>
+            <div class="select5 edges">Ремонтируем марки</div>
+            
+            <div style="border-bottom: 1px solid #ee6557;">
+            <p><img src="img/logos.png"></img></p>
+             </div>
+           
+           <div style="padding-bottom:20px;" class="clear"></div>
+             
+             <p class="titleform" style="padding-top:20px;">Нет вашей марки?</br></br>Оставьте заявку</br>и мы найдем решение.</p>
+            <div class="g316 form edges">
+    <form id="contactform" action="send.php" method="post" name="forma_betmenik3" onsubmit="if (proverka(forma_betmenik3)) {yaCounter23974735.reachGoal('order');return true;} else return false;">
+<p><input type="text" name="firstname" class="required big1 edges" value="Ваше имя" onfocus="if (this.value=='Ваше имя') this.value='';"></p>
+<p><input type="text" name="phone" class="required big1 edges" value="Ваш телефон *" onfocus="if (this.value=='Ваш телефон *') this.value='';"></p>
+<p><input type="submit" class="big2 edges"  value="ВЫЗВАТЬ МАСТЕРА"></p>
+</form>
+<p style="text-align:center; color:#FFF;">Ваши данные в безопасности и не будут переданы третьим лицам.</br>ФЗ  № 152 «О защите персональных данных»</p>
+  </div>
+  
+  <div class="clear"></div>
+            <div class="select5 edges">Немного статистики</div>
+            
+            <div style="padding-top:20px; text-align:center;" class="text4">
+            Мы существуем уже</br>
+            <b style="font-size:36px;">8</b></br>
+            продуктивных лет
+             </div>
+             
+             <div style="padding-top:20px; text-align:center; border-top: 1px solid #ee6557; margin-top:20px;" class="text4">
+            В нашем штате</br>
+            <b style="font-size:36px;">20</b></br>
+            опытных мастеров
+             </div>
+             
+             <div style="padding-top:20px; text-align:center; border-top: 1px solid #ee6557; margin-top:20px;" class="text4">
+            В прошлом году</br>мы починили более</br>
+            <b style="font-size:36px;">500</b></br>
+            холодильников
+             </div>
+            
+            
+            
+            
+		</aside><!-- .left-sidebar -->
+
+	</div><!-- .middle-->
+
+	<footer class="footer">
+		<div class="logo2"><img src="img/logo.png"></img></div>
+        <div class="logo3"><b>Наш адрес:</b></br>г.Киев, Ул. Б.Васильковская 45 оф.214</div>
+      <div class="address">
+     
+      <a class="popup-with-form" href="#test-form"><div class="select edges">Закажите обратный звонок</div></a></div>
+      
+      <div class="tel big red">Звоните сейчас <i class="fa fa-arrow-right"></i> <b>(098) 016-86-97</b>
+      
+      <div class="tel small grey">Работаем ежедневно с 8:00 до 24:00</div>
+      
+      </div>
+	</footer><!-- .footer -->
+<div>    
+     <form id="test-form" action="send.php" method="post" name="forma_betmenik4" onsubmit="if (proverka(forma_betmenik4)) {yaCounter23974735.reachGoal('call');return true;} else return false;" class="rf mfp-hide white-popup-block edges" style="text-align:center;">
+        <div class="modal-header">Заказать обратный звонок</div>
+        <fieldset style="border:0;">
+         
+         <p><input type="text" name="phone" class="required big1 edges" value="Ваш телефон *" onfocus="if (this.value=='Ваш телефон *') this.value='';"></p>
+              <p><input type="submit" class="btn_submit disabled big2 edges"  value="ОТПРАВИТЬ ЗАЯВКУ">
+              <p>Ваши данные в безопасности и не будут переданы третьим лицам.</br>ФЗ  № 152 «О защите персональных данных»</p>
+            </p>
+        
+        </fieldset>
+      </form>
+    </div>
+</div><!-- .wrapper -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EW2P9LENJ9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EW2P9LENJ9');
+</script>
+
+<script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-with-form').magnificPopup({
+          type: 'inline',
+          preloader: false,
+          focus: '#phone',
+
+          // When elemened is focused, some mobile browsers in some cases zoom in
+          // It looks not nice, so we disable it:
+          callbacks: {
+            beforeOpen: function() {
+              if($(window).width() < 700) {
+                this.st.focus = false;
+              } else {
+                this.st.focus = '#phone';
+              }
+            }
+          }
+        });
+      });
+    </script>
+
+</body>
+</html>
